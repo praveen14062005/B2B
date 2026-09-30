@@ -1,0 +1,22 @@
+# Target build directories
+target/
+out/
+bin/
+*.class
+
+# Environment and credentials
+.env
+*.pem
+*.key
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
